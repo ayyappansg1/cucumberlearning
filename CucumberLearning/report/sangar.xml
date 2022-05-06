@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="3" time="46.246911">
+<testcase classname="This is login for Fb page" name=": This is login scenario fb" time="16.700433">
+<system-out><![CDATA[Given user is on login of fb home...........................................passed
+When user enter the "ayya007@gmail.com" password "sangar@123"...............passed
+]]></system-out>
+</testcase>
+<testcase classname="This is login for Fb page" name=": This is login scenario fb 2" time="14.861634">
+<system-out><![CDATA[Given user is on login of fb home...........................................passed
+When user enter the "ayya007@gmail.com" password "sangasadr@123"............passed
+]]></system-out>
+</testcase>
+<testcase classname="This is login for Fb page" name=": This is login scenario fb 3" time="14.684844">
+<system-out><![CDATA[Given user is on login of fb home...........................................passed
+When user enter the "ayya00sds7@gmail.com" password "sangasadar@123"........passed
+]]></system-out>
+</testcase>
+</testsuite>
